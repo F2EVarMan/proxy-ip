@@ -1,0 +1,14 @@
+{
+  "name": "proxy ip webspider",
+  "version": "1.0.0",
+  "description": "node proxy ip spider",
+  "main": "web_spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "varman",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^1.6.1"
+  }
+}
